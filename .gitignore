@@ -1,0 +1,33 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Jupyter kernel gateway
+.ipynb_checkpoints/
+*.ipynb
+
+# Jupyter nbconvert
+*.html
+*.pdf
+
+# Jupyter widgets
+.ipynb_checkpoints/
+widget-debug.log
+# Python virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+env/
+venv/
