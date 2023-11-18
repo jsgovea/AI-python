@@ -1,10 +1,8 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
 
 # Jupyter kernel gateway
 .ipynb_checkpoints/
-*.ipynb
 
 # Jupyter nbconvert
 *.html
